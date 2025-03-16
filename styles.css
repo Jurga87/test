@@ -8,3 +8,16 @@ body {
   h1, h2, p {
     text-align: center;
   }
+  .item p{
+    display: inline-block;
+  }
+  .flavor {
+    display: inline-block;
+    width: 49%;
+    text-align: left;
+  }
+  .price {
+    display: inline-block;
+    width: 49%;
+    text-align: right;
+  }
